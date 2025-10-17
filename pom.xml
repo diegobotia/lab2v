@@ -71,10 +71,8 @@
 			</plugin>
 
 
-
-
-
 		</plugins>
+		<finalName>lab2v</finalName>
 	</build>
 
 </project>
